@@ -19,3 +19,14 @@ TI 19 B2
 4. Tampilan Form Input
 
       ![Screenshot (94)](https://user-images.githubusercontent.com/81598272/117752744-86da3d80-b241-11eb-84f2-05f483a59dcc.png)
+      
+      
+      
+  
+  APLIKASI PHP SEDERHANA
+  
+  1. Tampilan Input
+        ![Screenshot (96)](https://user-images.githubusercontent.com/81598272/117754642-ed148f80-b244-11eb-9252-64828fafc772.png)
+        
+  2. Tampilan Output
+         ![Screenshot (97)](https://user-images.githubusercontent.com/81598272/117754658-f867bb00-b244-11eb-85ac-18b46b420ab1.png)
